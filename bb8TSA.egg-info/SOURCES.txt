@@ -1,0 +1,17 @@
+README.md
+setup.py
+bb8TSA/__init__.py
+bb8TSA.egg-info/PKG-INFO
+bb8TSA.egg-info/SOURCES.txt
+bb8TSA.egg-info/dependency_links.txt
+bb8TSA.egg-info/requires.txt
+bb8TSA.egg-info/top_level.txt
+bb8TSA/FilesPrepration/__init__.py
+bb8TSA/FilesPrepration/filesPrepModules.py
+bb8TSA/TSA/__init__.py
+bb8TSA/TSA/dataBinModules.py
+bb8TSA/TSA/statModules.py
+bb8TSA/TSA/tendanceModules.py
+bb8TSA/TSA/tsaModules.py
+test/__init__.py
+test/test.py

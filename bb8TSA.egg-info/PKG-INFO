@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: bb8TSA
+Version: 0.1.0
+Summary: Extract some statistical indicators from time series
+Home-page: https://gitlab.ialab-bpifrance.fr/data-ia/bpi-fr-data-sc-bb8-ts-analysis
+Author: Farhang Habibi
+Author-email: farhang.habibi@bpifrance.fr
+License: UNKNOWN
+Description: # bpi-fr-data-sc-bb8-ts-analysis
+        This package provides tools to statistically analyse the time series. 
+        The organisations where have cited in different corrpuses aer extracted and 
+        their citation evolution by time is studied. For each organisation, the 
+        variability, outlier inclusion, average number of citations and increase/decrease
+        tendency in citations are investigated.
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
